@@ -1,0 +1,25 @@
+# Configuración local
+.env
+.env.local
+
+# Dependencias
+/vendor/
+/node_modules/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+
+# Archivos temporales de PHP
+*.cache
+
+# Copias de seguridad
+*.bak
+*.backup
