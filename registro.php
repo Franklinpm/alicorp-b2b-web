@@ -37,7 +37,7 @@
                             Alicorp B2B Web
                         </p>
 
-                        <form method="POST">
+                        <form method="POST" action="usuarios/guardar.php">
 
                             <div class="mb-3">
 
